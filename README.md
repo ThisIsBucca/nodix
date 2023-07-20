@@ -1,38 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   EXECUTIVE SUMMARY OF THE COMPANY.
+----------------------------------------------------------------------
+NODIX is a startup company that specializes in technology product development. The company's
+mission is to provide innovative technology products to meet demands of the market. The
+company's focus is on developing products that are user-friendly, efficient, and cost-effective.
+The company's core competencies include product design, development, and engineering. The
+team at NODIX is composed of experienced engineers and designers who have a wealth of
+knowledge and expertise in the technology industry. We use the latest tools and technologies
+to create products that are of the highest quality and meet the needs of the customers.
+EXTEK has a strong emphasis on R&D (research and development). The company is constantly
+researching new technologies and trends in the market to ensure that our products are ahead
+of the curve. This approach has led to the development of several successful products that have
+been well-received by the market.
+Our mission is to develop great and useful technology product that could make a positive
+impact on the world. We are committed to play a leading role in shaping the technology
+landscape of tomorrow, and we are excited about the opportunities and challenges that lied
+ahead.
+Our vision is well supported by our mission. Our vision is to become a leading technology
+company that deliver innovative software, web and hardware solutions that empower
+individual and organizations to achieve their goals and improve their performance. We strive to
+be at the forefront of what is possible and delivering cutting-edge products and services that
+meet the evolving needs of our customers.
+Our goal is to build long-term partnership with our clients, based on trust, mutual respect, and
+a shared commitment to creating customized solutions that meet the specific needs of each
+client, and we take great pride in delivering high-quality products that exceed expectations.
+NODIX's products and services can help its clients achieve their technology goals and improve
+their competitiveness in the market. The company's focus on innovation and its ability to
+deliver high-quality solutions on-time and on-budget makes it an ideal partner for companies
+looking to develop new technology products.
+In conclusion, NODIX is a technology development company that specializes in creating
+innovative solutions for its clients. With a focus on quality and customer products and service,
+EXTEK's products and services are designed to improve efficiency and productivity, and to
+deliver optimal performance and reliability. The company's commitment to innovation and R&D
+ensures that it stays at the forefront of the technology industry
