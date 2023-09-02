@@ -15,6 +15,7 @@ import shanas from  './../../public/shanas.jpg'
 import abubakar from  './../../public/abubakar.jpg'
 import boy6 from  './../../public/boy6.jpg'
 import boy7 from  './../../public/boy7.jpg'
+import boy7 from  './../../public/young.jpg'
 
 
 
@@ -326,7 +327,7 @@ export default function Table() {
                 <div className='text-sm opacity-50'>Tanzania</div>
               </div>
             </td>
-            <td> <span >Sales and branding adviser</span>
+            <td> <span >Information security</span>
             </td>
             <td>+255 653144412</td>
           </tr>
@@ -350,6 +351,27 @@ export default function Table() {
             <td> <span >Fullstack developer</span>
             </td>
             <td>+255 755974722</td>
+          </tr>
+
+          <tr>
+            <td>
+              <div className='avatar'>
+                <div className='mask  mask-squircle w-20 h-20'>
+                  <Image
+                    src={young}
+                    alt="nodix Logo"
+                    priority
+                  />
+                </div>
+              </div>
+              <div>
+                <div className='font-bold '>Youngtiger</div>
+                <div className='text-sm opacity-50'>Dar-Tanzania</div>
+              </div>
+            </td>
+            <td> <span >Ai</span>
+            </td>
+            <td>+255 673531233</td>
           </tr>
 
         </tbody>

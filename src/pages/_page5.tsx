@@ -89,7 +89,7 @@ export default function Page5() {
              <section className=''>
               <h3>Email</h3>
               <p className='text-sm'>hello@nodixinc.org</p>
-              <p className='text-sm'>albinius.lucas@gmail.com</p>
+              <p className='text-sm'>csm@nodix.cloud</p>
              </section>
 
              <section className=''>
