@@ -1,7 +1,7 @@
 
 
-## Nodix site link
+# Nodix site link
 
-(https://nodixinc.org/).
+nodix project by thisisbuca and others
 
 
