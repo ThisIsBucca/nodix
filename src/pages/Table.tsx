@@ -15,7 +15,7 @@ import shanas from  './../../public/shanas.jpg'
 import abubakar from  './../../public/abubakar.jpg'
 import boy6 from  './../../public/boy6.jpg'
 import boy7 from  './../../public/boy7.jpg'
-import boy7 from  './../../public/young.jpg'
+import young from  './../../public/young.jpg'
 
 
 
